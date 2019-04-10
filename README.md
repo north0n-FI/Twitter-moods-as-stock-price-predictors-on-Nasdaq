@@ -3,3 +3,5 @@ Although news most certainly influence stock market prices, public mood states o
 
 Hypothesis:
 Tweets today with a positive or negative sentiment and containing one or several cashtags can affect the way a stock moves tomorrow. If negative sentiments dominate today, the stock price is expected to fall tomorrow, and rise after positive sentiments. The number of followers a Twitter account has is also a dominating factor. The more followers, the more influential the tweets, and the more impacts on the stock price.
+
+PLEASE NOTE ONE THING ABOUT THE NOTEBOOKS: The dataframes contain also a lot of columns not used in the actual binary classification analysis, where only two features were relevant; 'Pct_daily_change' and 'Compound_multiplied' (=the x:s) and 'Buy/Sell' (=the y).
