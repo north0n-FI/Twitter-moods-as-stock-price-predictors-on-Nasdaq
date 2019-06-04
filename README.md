@@ -2,7 +2,9 @@
 Although news most certainly influence stock market prices, public mood states or sentiment may play an equally important role. We know from psychological research that emotions, in addition to information, play a significant role in human decision-making. Behavioral finance has provided further proof that financial decisions are significantly driven by emotion and mood. It is therefore reasonable to assume that the public mood and sentiment can drive stock market values as much as news. As far as tweets go, some interesting discoveries have already been made. I also wanted to investigate this, and made some interesting discoveries!
 
 Also two articles, Parts 1 & 2 covering the analysis can be fund on medium.com
+
 https://medium.com/@jang.noodin/moods-on-twitter-can-predict-stock-price-movements-on-nasdaq-part-1-9b128d4492ae
+
 https://medium.com/@jang.noodin/moods-on-twitter-can-predict-stock-price-movements-on-nasdaq-part-2-524adc042a5e
 
 Hypothesis:
